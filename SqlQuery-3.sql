@@ -87,8 +87,7 @@ where ProductName='Melek' -- Dilek , Melek  tablodan silindi
 
 
 
-
----VİEW YAPISI VE KULLANIM ALANLARI 
+--VİEW YAPISI VE KULLANIM ALANLARI 
  
  -- Viewlar için SANAL TABLOLAR diyebiliriz , içlerinde fiziki olarak veri tutmazlar. (kısaca viewlar tablo gibi davranırlar )
  
